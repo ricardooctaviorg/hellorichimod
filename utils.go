@@ -3,5 +3,5 @@ package utils
 import "fmt"
 
 func HelloWorldRichi() {
-	fmt.Println("Richi: Hello World !!!")
+	fmt.Println("Richi: Hello World 2025 !!!")
 }
